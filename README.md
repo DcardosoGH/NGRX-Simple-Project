@@ -1,6 +1,7 @@
 # Ngrx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.6.
+This is a Simple Project that illustrates how to implement the @ngrx Library with Angular making apps use state management.
 
 ## Development server
 
